@@ -1,9 +1,7 @@
-# Reconocimiento-Voz-con-CNN
-
 ## Trabajo Final de Sistemas y Senales Lineales
 
 # Uso de la Transformada de Fourier para el Reconocimiento de voz. 
-### Caso de Estudio: Redes Convolucionales
+### Caso de Estudio: Redes Convolucionales - CNN
 
 Integrantes:
 
